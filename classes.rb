@@ -1,7 +1,7 @@
 # Definindo a classe
 class Usuario
 	#attr_reader	:ano_nascimento 	=> Cria o getter
-	#attr_writer 	:nome 				=> Cria o setter
+	#attr_writer 	:nome 			=> Cria o setter
 	#attr_accessor	:nome_do_atributo 	=> Cria ambos, getter e setter
 
 	def initialize(nome, ano_nascimento) # método contrutor no Ruby
